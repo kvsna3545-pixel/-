@@ -1,4 +1,4 @@
-thanks for using my script.
+--{{script by kvsna3545 Team}}--
 
 -- Instances:
 
